@@ -1,16 +1,25 @@
-## Hi there 👋
+### سلام! من M16 هستم 👋
 
-<!--
-**m2116moon-star/m2116moon-star** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+من دانش‌آموخته فیزیک هستم و علاقه زیادی به تدریس و یادگیری دارم. 
 
-Here are some ideas to get you started:
+🌱 **در حال حاضر:** یادگیری پایتون و کاوش در دنیای شبیه‌سازی‌های علمی با کتابخانه‌های NumPy و Matplotlib.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎯 **هدف من:** ترکیب دانش فیزیک با قدرت برنامه‌نویسی برای مدل‌سازی پدیده‌های طبیعی و حل مسائل ریاضی.
+
+---
+
+### 🛠 مهارت‌ها و علاقه‌مندی‌ها
+* **زبان برنامه‌نویسی:** Python
+* **کتابخانه‌ها:** NumPy
+* **علوم پایه:** فیزیک، ریاضیات کاربردی
+
+---
+
+### 📂 پروژه‌های من
+در حال حاضر روی پروژه‌های کوچک اما کاربردی کار می‌کنم. خوشحال می‌شوم نگاهی به مخازن من بیندازید:
+* [My-codes](https://github.com/m2116moon-star/My-codes) - مجموعه‌ای از تمرین‌های پایتون و شبیه‌سازی‌های NumPy
+
+---
+
+### 📬 راه‌های ارتباطی
+اگر درباره کدهای من سوالی داشتید یا مایل به همکاری در پروژه‌های علمی بودید، خوشحال می‌شوم بشنوم.
